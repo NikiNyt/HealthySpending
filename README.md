@@ -38,6 +38,8 @@ We welcome contributions from everyone! Find your role below:
 * **Action:** Help us modernize the website, fix bugs, or design new features.
 * **How:** See [CONTRIBUTING.md](CONTRIBUTING.md) for technical instructions.
 
+ **YOU CAN ALSO CHECK GENERAL CONTRIBUTION GUIDE [HERE](https://nikinyt.github.io/HealthySpending/)**
+
 ## 🛠️ Installation (For Developers)
 
 1.  **Clone the repository**
