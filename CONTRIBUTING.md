@@ -19,7 +19,7 @@ Have an idea for the Leaderboard or a new Quest? Open an issue tagged `enhanceme
 5.  Push to your branch and submit a **Pull Request**.
 
 ## 📊 The Rating System Logic (Technical)
-If you are working on the backend for the Rating System, please refer to `/docs/ARCHITECTURE.md` for the scoring formulas and database schema for user points.
+If you are working on the backend for the Rating System, please refer to [documentation](/documentation/ARCHITECTURE.md) for the scoring formulas and database schema for user points.
 
 ## 💬 Community
 Join our Discord or Forum to discuss development tasks with other contributors.
