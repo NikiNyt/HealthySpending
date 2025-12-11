@@ -36,7 +36,7 @@ We welcome contributions from everyone! Find your role below:
 
 ### 💻 Developers & Designers
 * **Action:** Help us modernize the website, fix bugs, or design new features.
-* **How:** See `CONTRIBUTING.md` for technical instructions.
+* **How:** See [CONTRIBUTING.md](CONTRIBUTING.md) for technical instructions.
 
 ## 🛠️ Installation (For Developers)
 
